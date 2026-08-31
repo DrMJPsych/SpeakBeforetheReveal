@@ -6,8 +6,8 @@ the AI scribe writes its version.**
 An ambient AI scribe produces an excellent note and, in doing so, quietly takes
 over the part of the work that made the clinician good at it. Reading a
 plausible formulation is not the same cognitive act as producing one. Once you
-have read the AI's impression, forming your own independently is much harder —
-your judgement has already been anchored. Do that every day for a year and the
+have read the AI's impression, forming your own independently is much harder.
+Your judgement has already been anchored. Do that every day for a year and the
 capacity degrades.
 
 The remedy is order, not abstinence. Once the patient has left, keep recording
@@ -19,9 +19,8 @@ thinking rather than a plausible reconstruction of it.
 
 ---
 
-This repository takes one control from a broader governance paper — *speak
-before the reveal*, the lowest-friction of seven proposed — and builds it out
-into something a clinician can use tomorrow. The paper makes the wider argument
+This repository takes one control from a broader governance paper *speak
+before the reveal*, and builds it out into something a clinician can use tomorrow. The paper makes the wider argument
 about workforce capability; this is the bedside end of it.
 
 ## What's in this repository
@@ -73,7 +72,7 @@ when the conversation ends.
 
 This is a documentation-practice aid. It contains no thresholds, doses, decision
 rules, scoring systems or diagnostic criteria, and it is designed not to
-generate any — a cheat sheet that supplies clinical content is a scribe with
+generate any: a cheat sheet that supplies clinical content is a scribe with
 extra steps. The vocabulary it produces names findings you have already made.
 
 Any sheet you build is yours. It has not been reviewed by the author of the
@@ -89,7 +88,7 @@ the reveal*; this repository extends it to other specialties.
 
 The method:
 
-> Jurblum M. *Speak Before the Reveal: Seven Solutions to Governing AI Scribe
+> Pre-print (currently under submission): Jurblum M. *Speak Before the Reveal: Seven Solutions to Governing AI Scribe
 > Deskilling Risk in Psychiatry and Mental Health Services.* Preprint,
 > 28 July 2026. https://doi.org/10.2139/ssrn.7317778
 
@@ -100,7 +99,7 @@ release is made.
 
 ## Contributing
 
-Adaptations to other specialties are welcome — open an issue or a pull request
+Adaptations to other specialties are welcome. Open an issue or a pull request
 with the sheet and a note on what your specialty needed that the general
 candidates missed. That feedback is the main way the skill's list of commonly
 missing sections improves.
