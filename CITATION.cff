@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+title: "Speak Before the Reveal: cheat sheet skill and worked examples"
+message: "If you use this skill or the cheat sheets, please cite both this repository and the method paper."
+type: software
+authors:
+  - family-names: Jurblum
+    given-names: Marc
+    orcid: "https://orcid.org/0000-0002-2208-7042"
+    affiliation: "The University of Melbourne"
+abstract: >-
+  An LLM skill that interviews a clinician and builds a printable prompt card
+  for use with an AI scribe, together with two worked examples (psychiatry and
+  general medicine). The card prompts the clinician to speak their clinical
+  reasoning aloud before the scribe generates its note, so that the reasoning
+  is authored rather than edited and the record carries the clinician's
+  thinking rather than a plausible reconstruction of it.
+keywords:
+  - AI scribe
+  - ambient documentation
+  - clinical reasoning
+  - deskilling
+  - cognitive offloading
+  - clinical documentation
+  - psychiatry
+  - health informatics
+license: CC-BY-4.0
+repository-code: "https://github.com/DrMJPsych/SpeakBeforetheReveal"
+references:
+  - type: article
+    title: "Speak Before the Reveal: Seven Solutions to Governing AI Scribe Deskilling Risk in Psychiatry and Mental Health Services"
+    authors:
+      - family-names: Jurblum
+        given-names: Marc
+    year: 2026
+    doi: "10.2139/ssrn.7317778"
+  - type: generic
+    title: "Speak before the reveal clinician cheat sheet"
+    authors:
+      - family-names: Jurblum
+        given-names: Marc
+    year: 2026
+    doi: "10.5281/zenodo.22120151"
