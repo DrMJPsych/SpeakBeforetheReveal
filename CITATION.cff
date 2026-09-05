@@ -6,14 +6,14 @@ authors:
   - family-names: Jurblum
     given-names: Marc
     orcid: "https://orcid.org/0000-0002-2208-7042"
-    affiliation: "The University of Melbourne"
 abstract: >-
-  An LLM skill that interviews a clinician and builds a printable prompt card
-  for use with an AI scribe, together with two worked examples (psychiatry and
-  general medicine). The card prompts the clinician to speak their clinical
-  reasoning aloud before the scribe generates its note, so that the reasoning
-  is authored rather than edited and the record carries the clinician's
-  thinking rather than a plausible reconstruction of it.
+  An LLM skill that interviews a clinician and builds a printable reference
+  guide for use with an AI scribe, together with three worked examples, in
+  psychiatry, general medicine and general practice. The guide prompts the
+  clinician to dictate their clinical reasoning while the scribe is still
+  recording, before it generates its note, so that the reasoning is authored
+  rather than edited. The method is a reasoned precaution and has not been
+  evaluated in a trial.
 keywords:
   - AI scribe
   - ambient documentation
@@ -21,8 +21,11 @@ keywords:
   - deskilling
   - cognitive offloading
   - clinical documentation
-  - psychiatry
+  - workforce capability
   - health informatics
+  - artificial intelligence
+  - clinical governance
+  - automation bias
 license: CC-BY-4.0
 repository-code: "https://github.com/DrMJPsych/SpeakBeforetheReveal"
 references:

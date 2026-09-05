@@ -1,0 +1,35 @@
+{
+  "title": "Speak Before the Reveal: cheat sheet skill and worked examples",
+  "upload_type": "software",
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Jurblum, Marc",
+      "orcid": "0000-0002-2208-7042",
+      "affiliation": "The University of Melbourne"
+    }
+  ],
+  "keywords": [
+    "AI scribe",
+    "ambient documentation",
+    "clinical reasoning",
+    "deskilling",
+    "cognitive offloading",
+    "clinical documentation",
+    "psychiatry",
+    "health informatics"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.2139/ssrn.7317778",
+      "relation": "isSupplementTo",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.22120151",
+      "relation": "isDerivedFrom",
+      "scheme": "doi"
+    }
+  ]
+}
