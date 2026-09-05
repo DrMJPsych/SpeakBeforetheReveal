@@ -1,6 +1,6 @@
 cff-version: 1.2.0
-title: "Speak Before the Reveal: cheat sheet skill and worked examples"
-message: "If you use this skill or the cheat sheets, please cite both this repository and the method paper."
+title: "Speak Before the Reveal: Reference Guide Skill"
+message: "If you use this skill or the reference guides, please cite both this repository and the method paper."
 type: software
 authors:
   - family-names: Jurblum

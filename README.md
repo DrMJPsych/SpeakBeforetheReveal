@@ -63,7 +63,7 @@ It is designed to work in both Claude and ChatGPT. Testing across the two is
 ongoing, so if it behaves differently in one of them, that is worth an issue.
 
 In both Claude and ChatGPT, add `SKILL.md` as a skill, or paste it into a new 
-conversation. You can also attach one of the cheat sheets from `cheatsheets/` 
+conversation. You can also attach one of the reference guides from `cheatsheets/` 
 as a formatting example.
 
 Then ask it to build a guide for your specialty.
@@ -81,8 +81,8 @@ what you actually found. It isn't finished when the conversation ends.
 
 This is an aid to remind you what to say to the scribe to build up good documentation 
 practice. There are no thresholds, doses, decision rules, scoring systems or diagnostic 
-criteria in it, and the skill is built not to generate any, because a cheat sheet that 
-supplies clinical content is a scribe with extra steps. The vocabulary it gives you are 
+criteria in it, and the skill is built not to generate any, because a reference guide 
+that supplies clinical content is a scribe with extra steps. The vocabulary it gives you are 
 cues to help you think more broadly through your spoken synthesis.
 
 The method is a reasoned precaution and has not been evaluated in a trial. The
@@ -113,7 +113,7 @@ The psychiatry cheat sheet: https://doi.org/10.5281/zenodo.22120151
 
 This repository:
 
-> Jurblum M. *Speak Before the Reveal: cheat sheet skill and worked examples.*
+> Jurblum M. *Speak Before the Reveal: Reference Guide Skill.*
 > Zenodo. https://doi.org/10.5281/zenodo.22331969
 
 ## Contributing
