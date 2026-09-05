@@ -32,7 +32,7 @@ capability. The skill is the first practical tool to emerge from it.
 - [`skill/SKILL.md`](skill/SKILL.md), an LLM skill that interviews a clinician
   and builds a reference guide for their own specialty and note type. Works as a
   Claude or ChatGPT skill. 
-- [`cheatsheets/`](cheatsheets/), three worked examples, psychiatry, general
+- [`reference-guides/`](reference-guides/), three worked examples, psychiatry, general
   medicine and general practice, as printable two-page guides. These are examples 
   of what the output should look like.
 
@@ -63,7 +63,7 @@ It is designed to work in both Claude and ChatGPT. Testing across the two is
 ongoing, so if it behaves differently in one of them, that is worth an issue.
 
 In both Claude and ChatGPT, add `SKILL.md` as a skill, or paste it into a new 
-conversation. You can also attach one of the reference guides from `cheatsheets/` 
+conversation. You can also attach one of the reference guides from `reference-guides/` 
 as a formatting example.
 
 Then ask it to build a guide for your specialty.
