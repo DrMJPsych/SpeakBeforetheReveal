@@ -32,7 +32,7 @@ author of the method.
 Method: Jurblum M. Speak Before the Reveal: Seven Solutions to Governing AI Scribe
 Deskilling Risk in Psychiatry and Mental Health Services. Preprint,
 28 July 2026. https://doi.org/10.2139/ssrn.7317778
-Skill: [Zenodo concept DOI]
+Skill: https://doi.org/10.5281/zenodo.22331969
 ```
 
 Never invent, guess or reconstruct any DOI. If a placeholder above is still
@@ -535,7 +535,7 @@ Generated using the Speak Before the Reveal reference guide skill.
 Method: Jurblum M. Speak Before the Reveal: Seven Solutions to Governing AI Scribe
 Deskilling Risk in Psychiatry and Mental Health Services. Preprint,
 28 July 2026. https://doi.org/10.2139/ssrn.7317778
-Skill: [Zenodo concept DOI]
+Skill: https://doi.org/10.5281/zenodo.22331969
 
 Clinical content selected and verified by: ______________  Date: __________
 

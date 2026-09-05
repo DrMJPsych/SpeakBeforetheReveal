@@ -1,5 +1,7 @@
 # Speak Before the Reveal
 
+[![DOI](https://zenodo.org/badge/1352303121.svg)](https://doi.org/10.5281/zenodo.22331969)
+
 **Say your clinical reasoning out loud before the AI scribe writes its version.**
 
 An ambient scribe produces an excellent note, and while it is doing that it
@@ -109,8 +111,10 @@ The method:
 
 The psychiatry cheat sheet: https://doi.org/10.5281/zenodo.22120151
 
-This repository: see `CITATION.cff`, or the Zenodo DOI badge once the first
-release is made.
+This repository:
+
+> Jurblum M. *Speak Before the Reveal: cheat sheet skill and worked examples.*
+> Zenodo. https://doi.org/10.5281/zenodo.22331969
 
 ## Contributing
 

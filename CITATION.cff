@@ -28,6 +28,7 @@ keywords:
   - automation bias
 license: CC-BY-4.0
 repository-code: "https://github.com/DrMJPsych/SpeakBeforetheReveal"
+doi: "10.5281/zenodo.22331969"
 references:
   - type: article
     title: "Speak Before the Reveal: Seven Solutions to Governing AI Scribe Deskilling Risk in Psychiatry and Mental Health Services"
