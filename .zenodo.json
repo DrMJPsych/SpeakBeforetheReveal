@@ -1,5 +1,6 @@
 {
   "title": "Speak Before the Reveal: cheat sheet skill and worked examples",
+  "description": "<p>An LLM skill that interviews a clinician and builds a printable two-page reference guide for use with an ambient AI scribe, together with three worked examples: psychiatry, general medicine and general practice.</p><p>An ambient scribe writes an excellent note and, in doing so, quietly takes over the part of the work that is critical to doing the job safely. Reading a plausible clinical synthesis is not the same cognitive act as producing one, and once the clinician has read the model's version, forming their own independently is harder, because their judgement has already been anchored to it.</p><p>The remedy is sequence rather than abstinence. Once the patient has left, the clinician keeps the scribe recording and dictates their reasoning before stopping it. Spoken first, the reasoning is their own, and the scribe transcribes it instead of inventing it.</p><p>The skill applies that method to itself. It asks the clinician which parts of their note need human authoring before offering its own read, so that the guide is authored rather than edited. It proposes structure, vocabulary and formatting only, and is designed not to generate thresholds, doses, decision rules, scoring systems or diagnostic criteria.</p><p>The method is a reasoned precaution and has not been evaluated in a trial. Its rationale is drawn from adjacent evidence on automation bias and skill decay rather than from a study of AI scribes and clinical reasoning, which does not yet exist. The underlying practice of continuing to narrate after the patient leaves originates with Dr Michelle Adams.</p>",
   "upload_type": "software",
   "license": "cc-by-4.0",
   "language": "eng",
@@ -17,8 +18,11 @@
     "deskilling",
     "cognitive offloading",
     "clinical documentation",
-    "psychiatry",
-    "health informatics"
+    "workforce capability",
+    "health informatics",
+    "artificial intelligence",
+    "clinical governance",
+    "automation bias"
   ],
   "related_identifiers": [
     {
